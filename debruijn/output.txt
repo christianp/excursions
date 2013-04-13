@@ -1,0 +1,61 @@
+000001: Ace of Clubs
+000010: Ace of Hearts
+000100: 2 of Diamonds
+001000: 3 of Diamonds
+010000: 5 of Diamonds
+100001: 9 of Clubs
+000011: Ace of Spades
+000110: 2 of Hearts
+001100: 4 of Diamonds
+011000: 7 of Diamonds
+110001: King of Clubs
+100010: 9 of Hearts
+000101: 2 of Clubs
+001010: 3 of Hearts
+010100: 6 of Diamonds
+101001: Jack of Clubs
+010011: 5 of Spades
+100111: 10 of Spades
+001111: 4 of Spades
+011110: 8 of Hearts
+011111: 8 of Spades
+000000: Ace of Diamonds
+100000: 9 of Diamonds
+101000: Jack of Diamonds
+010001: 5 of Clubs
+100011: 9 of Spades
+000111: 2 of Spades
+001110: 4 of Hearts
+011100: 8 of Diamonds
+101111: Queen of Spades
+110010: King of Hearts
+100100: 10 of Diamonds
+001001: 3 of Clubs
+010010: 5 of Hearts
+100101: 10 of Clubs
+001011: 3 of Spades
+010110: 6 of Hearts
+101101: Queen of Clubs
+011011: 7 of Spades
+010111: 6 of Spades
+101110: Queen of Hearts
+011101: 8 of Clubs
+101011: Jack of Spades
+110000: King of Diamonds
+101100: Queen of Diamonds
+011001: 7 of Clubs
+110011: King of Spades
+100110: 10 of Hearts
+001101: 4 of Clubs
+011010: 7 of Hearts
+010101: 6 of Clubs
+101010: Jack of Hearts
+Swaps
+110101 -> 010101
+110110 -> 110000
+110111 -> 010111
+111101 -> 011111
+111001 -> 101111
+111011 -> 101011
+111010 -> 000000
+110100 -> 100000
