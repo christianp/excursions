@@ -1,0 +1,30 @@
+Each letter's favourite words
+
+<strong>a (6):</strong> astragalocalcaneal, calcaneoastragalar, taramasalata
+<strong>b (4):</strong> beblubber, beerbibber, bubblebow, bubbybush, bumblebomb, flibbertigibbet, gibblegabble, nabobrynabobs
+<strong>c (6):</strong> micrococcocci, pneumonoultramicroscopicsilicovolcanoconioses, pneumonoultramicroscopicsilicovolcanoconiosis
+<strong>d (5):</strong> disdodecahedroid, dunderheadededness, fuddy-duddy
+<strong>e (7):</strong> electrotelethermometer, ethylenediaminetetraacetate
+<strong>f (4):</strong> chiffchaff, cuffuffle, cuffuffled, giffgaff, niffnaff, riffraff, tufftaffeta
+<strong>g (5):</strong> huggermuggering
+<strong>h (4):</strong> chichihaerh, choledochorrhaphy, chromophotolithograph, dichlorodiphenyltrichloroethane, hochhuth, ichthyophthalmite, ichthyophthiriasis, ichthyophthirius, ophthalmophthisis, phenolsulphonephthalein, photochromolithograph, rhamphorhynchus, shihchiachuang, thymolsulphonephthalein
+<strong>i (9):</strong> floccinaucinihilipilification
+<strong>j (4):</strong> jajawijaja
+<strong>k (4):</strong> akiskemikinik, kakkak, knickknack
+<strong>l (6):</strong> llullaillaco
+<strong>m (4):</strong> dynamometamorphism, hamamelidanthemum, immunocompromised, mammatocumulus, mammectomies, mammectomy, mammiform, mammilliform, mammogram, mammondom, mammonism, mammothermography, mammotomy, melammdim, mercuriammonium, mesembrianthemum, metagrammatism, metalammonium, methylenedioxymethamphetamine, mohammadanism, mohammedanism, monoammonium, muhammadanism, multimammate, mummiform, mummydom, tetramethylammonium, thalamomammillary, theomammomist, thermometamorphism
+<strong>n (6):</strong> nonannouncement, noncondescendingness
+<strong>o (9):</strong> pneumonoultramicroscopicsilicovolcanoconiosis
+<strong>p (4):</strong> aplopappus, haplopappus, hippopotomonstrosesquipedalian, hyperleptoprosopic, hypophypophysism, pepperproof, philippopolis, pimperlimpimp, pipestapple, pippapasses, posthippocampal, preapperception, proappropriation, protopappas, snippersnapper, uppropped, whippersnapper
+<strong>q (2):</strong> abqaiq, albuquerque, chiquichiqui, chiquinquira, circumquaque, colloquiquia, equivoque, harlequinesque, iquique, qaimaqam, qepiq, qiqihar, quadratosquamosal, quadriquadric, quaequae, quaquaversal, quasqueton, quasquicentennial, quelquechose, quiaquia, quinquagenarian, quirquincho, quisquous, quitaque, saqqara, semiquinquefid, seqq, sesquiquadrate, subquinquefid, tuquoque, zaqaziq, zaqqum
+<strong>r (4):</strong> archcorrupter, archmurderer, archtreasurer, armourbearer, arteriopressor, arteriorrhagia, arthrorrhagia, barothermohygrogram, briarberry, burrgrailer, cardiorespiratory, carryforward, circumterrestrial, corroborator, counterreformer, counterterror, crackerberry, erythrorrhexis, extracurricular, extraterrestrial, extraterritorial, ferroconcretor, ferrosoferric, forrarder, gastrohydrorrhea, gastrohysterorrhaphy, gerrymanderer, herrerasaur, horrormonger, hydrochlorofluorocarbon, hydroxydehydrocorticosterone, hyperterrestrial, infraterritorial, intercarrier, interterritorial, intertransversary, intraterritorial, kerrikerri, merrytrotter, microprogrammer, microrefractometer, narcoterrorism, noncorroboratory, partridgeberry, pericardiorrhaphy, precorridor, precurrer, preferrer, prehorror, prereferred, prereformatory, presurrender, preterregular, preterrestrial, preterritorial, preterscriptural,
+procarrier, prosurrender, protreasurer, pyrotritartric, pyrroporphyrin, rearranger, recarburizer, recarrier, recurrer, recurvirostra, referrer, refrigerator, rehrersburg, remirror, reperforator, reprographer, reredorter, resurrector, resurrender, retransferred, retroauricular, retrogradatory, retropresbyteral, retroreflector, retroserrate, retrotransfer, reverberator, rhyparographer, riroriro, ruppertsberger, semireverberatory, serrirostrate, serrurerie, straightforwarder, superarbitrary, supercarrier, superterrestrial, surrenderer, tartratoferric, terroriser, terrorproof, tetrahydropyrrole, thyrorroria, tirralirra, tirrwirr, transferrer, trinitroresorcin, turbosupercharger, ultraterrestrial, uncorroboratory, underperformer, underroarer, undersorcerer, underterrestrial, undertreasurer, ureteroradiography, ureterorrhagia, ureterorrhaphy, urethroblennorrhea, vertebroarterial, worcesterberry
+<strong>s (8):</strong> possessionlessness, stresslessnesses, successlessnesses
+<strong>t (5):</strong> anticonstitutionalist, antiinstitutionalist, counterattestation, ethylenediaminetetraacetate, hastatosagittate, intersubstitutability, tetrasubstitution, throttlebottoms, totipotentiality, transubstantiationist, turbinatostipitate, yttrotantalite
+<strong>u (9):</strong> humuhumunukunukuapuaa
+<strong>v (3):</strong>  evviva, overconservative, overinvolve, oversurviving, overvivid, ovovivipara, vaginovulvar, vivarvaria, vivificative, vivisective, vulvovaginal
+<strong>w (3):</strong> bowwow, powwow, swallowwort, weewow, westnorthwestwardly, whillywhaw, whitlowwort, williwaw, willowware, willowweed, willowwood, willowworm, willowwort, willywaw, windowward, windwayward, www
+<strong>x (3):</strong> hexahydroxycyclohexane 
+<strong>y (4):</strong> dacryocystosyringotomy, hyperpolysyllabically, polyhydroxybutyrate
+<strong>z (4):</strong> pizzazz, razzamatazz
+
