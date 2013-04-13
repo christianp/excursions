@@ -1,0 +1,41 @@
+16 Palindrome times
+24 Hours and minutes are the same times
+153 Both hours and minutes are primes times
+8 Hours and minutes are twin primes times
+24 All digits are primes times
+211 The whole time is a prime times
+5 Digits form an arithmetic sequence times
+1 Digits form a geometric sequence time
+4 Fibonacci subsequence times
+157 One part is a non-trivial factor of the other times
+
+The 5 most interesting times:
+
+12:48
+Digits form a geometric sequence
+One part is a non-trivial factor of the other
+Score: 1.079809
+
+22:22
+Palindrome
+Hours and minutes are the same
+All digits are primes
+Score: 0.658248
+
+11:23
+Both hours and minutes are primes
+The whole time is a prime
+Fibonacci subsequence
+Score: 0.649688
+
+11:11
+Palindrome
+Hours and minutes are the same
+Both hours and minutes are primes
+Score: 0.534969
+
+02:46
+Digits form an arithmetic sequence
+One part is a non-trivial factor of the other
+Score: 0.527022
+
