@@ -1,3 +1,5 @@
+3731 endings can be made into words
+18111 words can be made from endings
 
   eau
 b
@@ -14146,12 +14148,6 @@ pzz
   piazza
   piazze
   pizza
-q
-  aqua
-  aquae
-  qua
-  quai
-  queue
 qbl
   equable
   qabala
